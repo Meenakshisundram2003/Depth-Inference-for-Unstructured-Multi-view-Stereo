@@ -4,9 +4,6 @@
 - Dheeraj Chilukuri  
 - Meenakshisundram Ganapathi Subramanian  
 - Soorya Boopal  
-_MS in Robotics and Autonomous Systems_  
-Arizona State University
-
 ---
 
 ## 📖 Overview
@@ -28,6 +25,7 @@ Our experiments on the **DTU dataset** show that the GRU-based approach enhances
 ├── mvsnet/            # Core implementation of MVSNet & R-MVSNet architectures
 ├── results/           # Output reconstructions, metrics, plots
 ├── tools/             # Dataset preprocessing, evaluation scripts
+├── Final_report.pdf   # Full technical report with methodology, results & references
 ├── LICENSE            # License file (MIT/Apache2/GPLv3)
 ├── README.md          # This file
 └── requirements.txt   # Python dependencies
